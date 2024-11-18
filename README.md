@@ -69,19 +69,34 @@ dt.predict([[0.5,0.8,9,260, 6,0,1,2]])
 ## Output:
 ![alt text](<EXP 08(1).png>)
 
+
 ![alt text](<EXP 08(2).png>)
+
+
 
 ![alt text](<EXP 08(3).png>)
 
+
+
 ![alt text](<EXP 08(4).png>)
+
+
 
 ![alt text](<EXP 08(5).png>)
 
+
+
 ![alt text](<EXP 08(6).png>)
+
+
 
 ![alt text](<EXP 08(7).png>)
 
+
+
 ![alt text](<EXP 08(8).png>)
+
+
 
 
 ## Result:
